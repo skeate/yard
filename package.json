@@ -1,6 +1,6 @@
 {
   "name": "@skeate/yard3",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "description": "yet another react-d3 integration library",
   "scripts": {
     "lint": "eslint './src/**/*'",
@@ -58,7 +58,7 @@
     "d3": "^4.3.0",
     "react": ">0.14"
   },
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "dependencies": {
     "svg-url-loader": "^2.0.2"
   }
