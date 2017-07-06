@@ -1,5 +1,5 @@
 /* eslint-disable key-spacing */
-import { PropTypes } from 'react';
+import PropTypes from 'prop-types';
 
 export const dynamicStyleTypes = {
   opacity:             PropTypes.oneOfType([PropTypes.number, PropTypes.string, PropTypes.func]),

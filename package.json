@@ -60,6 +60,7 @@
   },
   "main": "dist/index.js",
   "dependencies": {
+    "prop-types": "^15.5.10",
     "svg-url-loader": "^2.0.2"
   }
 }

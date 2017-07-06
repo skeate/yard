@@ -1,7 +1,5 @@
-import React, {
-  PropTypes
-} from 'react';
-
+import React from 'react';
+import PropTypes from 'prop-types';
 
 const Tooltip = ({ x, y, xOffset, yOffset, children }) => {
   if (typeof x === 'number' && typeof y === 'number') {
